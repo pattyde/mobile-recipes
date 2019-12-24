@@ -12,6 +12,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1 
-    - uses: pattyde/mobile-recipes@master
+    - uses: actions/setup-python@v1
     - name: Generate recipe tags
       run: tag_generator.py
