@@ -13,7 +13,7 @@ title: Home
 			{
 				"name": "{{ recipe.name }}",
 				"tags": "{{ recipe.tags }}",
-				"url": "{{ recipe.url }}"
+				"url": "{{ site.baseurl }}{{ recipe.url }}"
 			}
 			{% unless forloop.last %},{% endunless %}
 		{% endfor %}

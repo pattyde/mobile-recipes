@@ -6,7 +6,7 @@ title: Recipes
 <ul>
 	{% for recipe in site.recipes %}
 		<li>
-			<a href="{{ recipe.url }}">{{ recipe.name }}</a>
+			<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a>
 			<!-- <span>
 				{% for tag in recipe.tags %}
 					{% capture tag_name %}{{ tag }}{% endcapture %}

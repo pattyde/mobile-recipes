@@ -7,7 +7,7 @@ layout: default
 	{% include collecttags.html %}
 	{% for recipe in alldocs %}
 		{% if recipe.tags contains page.tag %}
-			<a href="{{ recipe.url }}">{{ recipe.name }}</a><br>
+			<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a><br>
 		{% endif %}
 	{% endfor %}
 </ul>
