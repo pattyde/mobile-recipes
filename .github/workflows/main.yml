@@ -1,0 +1,16 @@
+name: generate-tags
+
+on:
+  pull_request:
+    branches: 
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Generate recipe tags
+      run: tag_generator.py
