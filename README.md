@@ -1,5 +1,4 @@
 # 🍔 Our recipes
-----
 
 ## To add a new recipe:
 
