@@ -1,0 +1,6 @@
+<h2>Tags</h2>
+{% include collecttags.html %}
+{% for tag in recipetags %}
+	{% capture tag_name %}{{ tag.name }}{% endcapture %}
+	[<a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>]
+{% endfor %}

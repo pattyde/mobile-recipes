@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="recipe">
+<h1>Tag: {{ page.tag }}</h1>
+<ul>
+	{% include collecttags.html %}
+	{% for recipe in alldocs %}
+		{% if recipe.tags contains page.tag %}
+			<a href="{{ recipe.url }}">{{ recipe.name }}</a><br>
+		{% endif %}
+	{% endfor %}
+</ul>
+</div>

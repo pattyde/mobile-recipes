@@ -1,0 +1,46 @@
+---
+title: Home
+---
+<h1>Search recipes</h1>
+<form class="search-form">
+	<input type="text" class="search" placeholder="Recipe name">
+	<ul class="suggestions"></ul>
+</form>
+{% include tagcloud.html %}
+<script>
+	const recipes = [
+		{% for recipe in site.recipes %}
+			{
+				"name": "{{ recipe.name }}",
+				"tags": "{{ recipe.tags }}",
+				"url": "{{ recipe.url }}"
+			}
+			{% unless forloop.last %},{% endunless %}
+		{% endfor %}
+	];
+	function findMatches(wordToMatch, recipes) {
+		return recipes.filter(recipe => {
+			// does the recipe name match what was searched
+			const regex = new RegExp(wordToMatch, 'gi');
+			return recipe.name.match(regex) || recipe.tags.match(regex);
+		});
+	}
+	function displayMatches() {
+		const matchArray = findMatches(this.value, recipes);
+		const html = matchArray.map(recipe => {
+			const regex = new RegExp(this.value, 'gi');
+			const recipeName = recipe.name.replace(regex, `<span class="hl">${this.value}</span>`);
+			const recipeUrl = recipe.url;
+			return `
+				<li>
+					<a href="${recipeUrl}"><span class="name">${recipeName}</span></a>
+				</li>
+			`;
+		}).join('');
+		suggestions.innerHTML = html;
+	}
+	const searchInput = document.querySelector('.search');
+	const suggestions = document.querySelector('.suggestions');
+	searchInput.addEventListener('change', displayMatches);
+	searchInput.addEventListener('keyup', displayMatches);
+</script>

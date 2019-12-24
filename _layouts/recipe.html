@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+<span>
+	{% for tag in page.tags %}
+		{% capture tag_name %}{{ tag }}{% endcapture %}
+		[<a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>]
+	{% endfor %}
+</span>
+
+{{content}}

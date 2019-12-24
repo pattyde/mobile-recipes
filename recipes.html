@@ -1,0 +1,20 @@
+---
+title: Recipes
+---
+<h1>Recipes</h1>
+
+<ul>
+	{% for recipe in site.recipes %}
+		<li>
+			<a href="{{ recipe.url }}">{{ recipe.name }}</a>
+			<!-- <span>
+				{% for tag in recipe.tags %}
+					{% capture tag_name %}{{ tag }}{% endcapture %}
+					[<a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>]
+				{% endfor %}
+				</span> -->
+		</li>
+	{% endfor %}
+</ul>
+
+{% include tagcloud.html %}
