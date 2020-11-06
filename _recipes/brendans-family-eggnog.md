@@ -14,18 +14,6 @@ tags: christmas
 * 1 litre bourbon
 * 1 cup dark rum
 
-## Dry rub
-
-* 1 heaped tablespoon smoked paprika
-* 1 heaped teaspoon cayenne pepper
-* 1 heaped tablespoon fennel seeds
-* 1 heaped tablespoon coriander seeds
-* 1 teaspoon cumin seeds
-* 1-2 dried red chillies
-* 1 heaped teaspoon sea salt
-* 1 heaped tablespoon freshly ground black pepper
-* 1 heaped tablespoon soft dark brown sugar
-
 # How it's done
 
 **Prepare at least one week in advance to mellow. Ideally 3 weeks**
