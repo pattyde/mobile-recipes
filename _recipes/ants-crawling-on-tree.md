@@ -1,6 +1,6 @@
 ---
 name: Ants Crawling on Tree
-tags: asian mains pork-mince ants
+tags: asian mains pork-mince
 ---
 
 # What you need
