@@ -1,5 +1,5 @@
 ---
-name: Joey's Saag Gosht
+name: Lamb, Cauliflower, and Coconut Curry
 tags: indian lamb mains
 ---
 
