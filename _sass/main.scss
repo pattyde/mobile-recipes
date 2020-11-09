@@ -1,5 +1,33 @@
 $font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 
 body {
-	font-family: $font-stack
+	font-family: $font-stack;
+	padding-top: 60px;
+}
+
+nav {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+	margin-left: -8px;
+  width: 100%;
+  ul {
+    text-align: left;
+    list-style-type: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    li {
+      display: inline;
+      a {
+        color: #f2f2f2;
+        text-decoration: none;
+        padding: 14px;
+        &:hover {
+          background-color: #111;
+        }
+      }
+    }
+  }
 }
