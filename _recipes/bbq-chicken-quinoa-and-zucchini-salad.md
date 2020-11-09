@@ -1,6 +1,6 @@
 ---
 name: BBQ Chicken Quinoa and Zucchini Salad
-tags: chicken salas mains bbq
+tags: chicken salad mains bbq
 ---
 
 # What you need
