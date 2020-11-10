@@ -1,2 +1,2 @@
 {% assign alldocs = site.recipes %}
-{% assign recipetags =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
+{% assign recipetags =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag | sort: 'name' %}
