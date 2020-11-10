@@ -1,6 +1,10 @@
-<h2>Tags</h2>
-{% include collecttags.html %}
-{% for tag in recipetags %}
-	{% capture tag_name %}{{ tag.name }}{% endcapture %}
-	[<a href="{{ site.baseurl }}/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>]
-{% endfor %}
+<div class="tag-cloud">
+	<h2>Tags</h2>
+	{% include collecttags.html %}
+	{% for tag in recipetags %}
+		{% capture tag_name %}{{ tag.name }}{% endcapture %}
+		<div class="tag">
+			<a href="{{ site.baseurl }}/tag/{{ tag_name }}"><code>{{ tag_name }}</code></a>
+		</div>
+	{% endfor %}
+</div>

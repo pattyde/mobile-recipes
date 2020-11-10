@@ -31,3 +31,22 @@ nav {
     }
   }
 }
+
+.wrapper {
+	margin: auto;
+	width: 100%;
+	max-width: 40em;
+}
+
+.tag {
+	margin: .2em;
+	padding: .15em;
+	border-radius: 3px;
+	white-space: nowrap;
+	display: inline-block;
+	border: solid 1px;
+	a {
+		color: #2f2f2f;
+		text-decoration: none;
+	}
+}
