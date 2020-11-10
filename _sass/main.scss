@@ -38,10 +38,39 @@ nav {
 	max-width: 40em;
 }
 
+input {
+	width: 100%;
+	margin: auto;
+}
+
+.search-form {
+	max-width: 400px;
+}
+
+input.search {
+	margin: 0;
+	font-size: 1.5em;
+	padding: 1em;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.suggestions, .recipe-list {
+	padding: 0;
+	li {
+		list-style: none;
+		margin-bottom: .8em;
+	}
+	a {
+		text-decoration: none;
+		text-transform: capitalize;
+	}
+}
+
 .tag {
 	margin: .2em;
-	padding: .15em;
-	border-radius: 3px;
+	padding: .25em .5em;
+	border-radius: 10px;
 	white-space: nowrap;
 	display: inline-block;
 	border: solid 1px;

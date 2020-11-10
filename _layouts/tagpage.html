@@ -3,11 +3,13 @@ layout: default
 ---
 <div class="recipe">
 <h1>Tag: {{ page.tag }}</h1>
-<ul>
+<ul class="recipe-list">
 	{% include collecttags.html %}
 	{% for recipe in alldocs %}
 		{% if recipe.tags contains page.tag %}
-			<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a><br>
+			<li>
+				<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a><br>
+			</li>
 		{% endif %}
 	{% endfor %}
 </ul>

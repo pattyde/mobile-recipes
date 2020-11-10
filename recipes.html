@@ -3,7 +3,7 @@ title: Recipes
 ---
 <h1>All recipes</h1>
 
-<ul>
+<ul class="recipe-list">
 	{% for recipe in site.recipes %}
 		<li>
 			<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a>
