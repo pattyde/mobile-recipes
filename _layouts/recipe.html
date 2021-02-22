@@ -22,7 +22,7 @@ layout: default
 		<div class="method">
 			{{ content | split:"<!-- break -->" | last }}
 		</div>
-{% else %}
-	{{ content }}
-{% endif %}
+	{% else %}
+		{{ content }}
+	{% endif %}
 </div>
