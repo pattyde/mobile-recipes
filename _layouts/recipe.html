@@ -1,14 +1,28 @@
 ---
 layout: default
 ---
-<h1>{{ page.name }}</h1>
-<span>
-	{% for tag in page.tags %}
-		{% capture tag_name %}{{ tag }}{% endcapture %}
-		<div class="tag">
-			<a href="{{ site.baseurl }}/tag/{{ tag_name }}"><code>{{ tag_name }}</code></a>
+<div class="recipe-name">
+	<h1>{{ page.name }}</h1>
+</div>
+<div class="recipe-tags">
+	<span>
+		{% for tag in page.tags %}
+			{% capture tag_name %}{{ tag }}{% endcapture %}
+			<div class="tag">
+				<a href="{{ site.baseurl }}/tag/{{ tag_name }}"><code>{{ tag_name }}</code></a>
+			</div>
+		{% endfor %}
+	</span>
+</div>
+<div class="container">
+	{% if content contains "<!-- break -->" %}
+	  <div class="ingredients">
+			{{ content | split:"<!-- break -->" | first }}
 		</div>
-	{% endfor %}
-</span>
-
-{{content}}
+		<div class="method">
+			{{ content | split:"<!-- break -->" | last }}
+		</div>
+{% else %}
+	{{ content }}
+{% endif %}
+</div>

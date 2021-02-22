@@ -1,21 +1,24 @@
 ---
 title: Recipes
 ---
-<h1>All recipes</h1>
+<div class="wrapper">
+	<h1>All recipes</h1>
 
-<ul class="recipe-list">
-	{% assign sortedRecipes = site.recipes | sort: 'name' %}
-	{% for recipe in sortedRecipes %}
-		<li>
-			<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a>
-			<!-- <span>
-				{% for tag in recipe.tags %}
-					{% capture tag_name %}{{ tag }}{% endcapture %}
-					[<a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>]
-				{% endfor %}
-				</span> -->
-		</li>
-	{% endfor %}
-</ul>
+	<ul class="recipe-list">
+		{% assign sortedRecipes = site.recipes | sort: 'name' %}
+		{% for recipe in sortedRecipes %}
+			<li>
+				<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a>
+				<!-- <span>
+					{% for tag in recipe.tags %}
+						{% capture tag_name %}{{ tag }}{% endcapture %}
+						[<a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>]
+					{% endfor %}
+					</span> -->
+			</li>
+		{% endfor %}
+	</ul>
 
-{% include tagcloud.html %}
+	{% include tagcloud.html %}
+
+</div>

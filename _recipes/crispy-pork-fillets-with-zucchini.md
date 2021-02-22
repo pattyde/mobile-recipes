@@ -3,7 +3,7 @@ name: Crispy Pork Fillets with Zucchini and Rice
 tags: pork mains
 ---
 
-# What you need
+## What you need
 
 * 2 cups brown rice
 * 400g pork fillet
@@ -20,7 +20,9 @@ tags: pork mains
 * Juice of 1-2 lemons
 * 4 tablespoons greek yogurt
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Cook rice in a rice cooker
 

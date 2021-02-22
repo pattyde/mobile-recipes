@@ -35,7 +35,7 @@ nav {
 .wrapper {
 	margin: auto;
 	width: 100%;
-	max-width: 40em;
+	max-width: 50em;
 }
 
 input {
@@ -43,9 +43,9 @@ input {
 	margin: auto;
 }
 
-.search-form {
-	max-width: 400px;
-}
+// .search-form {
+// 	max-width: 400px;
+// }
 
 input.search {
 	margin: 0;
@@ -78,4 +78,18 @@ input.search {
 		color: #2f2f2f;
 		text-decoration: none;
 	}
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	column-gap: 2em;
+}
+
+@media only screen and (max-width: 700px) {
+	.container{ grid-template-columns: 1fr; }
+}
+
+.ingredients ul {
+	line-height: 1.5em;
 }

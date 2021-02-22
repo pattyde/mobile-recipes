@@ -27,6 +27,8 @@ tags: pork mains american
 * 2 tablespoons brown sugar
 * 1/3 cup molasses
 
+<!-- break -->
+
 # How it's done
 
 Rub spice mix over ribs, put in baking dish and cover with foil. Cook for 2-3 hours on low heat (around 110).
