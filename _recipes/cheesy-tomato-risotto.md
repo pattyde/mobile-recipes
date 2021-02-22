@@ -3,7 +3,7 @@ name: Cheesy Tomato Risotto
 tags: rice vegetarian mains
 ---
 
-# What you need
+## What you need
 
 * 800g can tomato
 * 2l water
@@ -19,7 +19,9 @@ tags: rice vegetarian mains
 * 4 tbsp basil, chopped
 * 1 cup grated parmesan
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Blend tomatoes.
 

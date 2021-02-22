@@ -3,9 +3,9 @@ name: Moroccan Beef Skewers with Cous Cous
 tags: middle-eastern mains beef-mince
 ---
 
-# What you need
+## What you need
 
-## Skewers
+### Skewers
 
 * 450g Beef Mince
 * 2 cloves garlic, finely chopped
@@ -17,7 +17,7 @@ tags: middle-eastern mains beef-mince
 * 2 tbsp breadcrumbs
 * 1 egg, beaten
 
-## Cous Cous
+### Cous Cous
 
 * 1 1/2 cups cous cous
 * 1 cup chicken stock
@@ -29,9 +29,11 @@ tags: middle-eastern mains beef-mince
 * Juice and rind of one lemon
 * Salt and pepper
 
-# How it's done
+<!-- break -->
 
-## Skewers
+## How it's done
+
+### Skewers
 
 In a large bowl combine all ingredients for skewers. Season with salt and pepper
 
@@ -39,7 +41,7 @@ Form 8 even sausage shapes about 10cm long and 3cm round with mixture and place 
 
 Cook on BBQ or in frying pan with olive oil
 
-## Cous Cous
+### Cous Cous
 
 Combine salt, water and stock in a saucepan and bring to the boil
 

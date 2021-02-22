@@ -3,10 +3,10 @@ name: Caitlin's Ribs
 tags: pork mains american
 ---
 
-# What you need
+## What you need
 * 2kg pork side ribs
 
-## Spice rub
+### Spice rub
 * Cumin
 * Paprika
 * Fennel Seeds
@@ -16,7 +16,7 @@ tags: pork mains american
 * Pepper
 * Anything else in the pantry that looks good
 
-## Sauce
+### Sauce
 * 3 long rashers bacon
 * 4 sprigs fresh thyme
 * 1/2 brown onion finely chopped
@@ -29,7 +29,9 @@ tags: pork mains american
 
 <!-- break -->
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Rub spice mix over ribs, put in baking dish and cover with foil. Cook for 2-3 hours on low heat (around 110).
 

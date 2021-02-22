@@ -3,29 +3,31 @@ name: Mum's Cheesecake
 tags: dessert
 ---
 
-# What you need
+## What you need
 
-## Crust
+### Crust
 
 * 1 packet Nice biscuits
 * 125g melted butter
 
-## Filling
+### Filling
 
 * 500g cream cheese (at room temperature)
 * 1/2 cup sugar
 * 3 eggs
 * 1 teaspoon vanilla
 
-## Top
+### Top
 
 * 2 cups sour cream
 * 1/4 cup sugar
 * 1 teaspoon vanilla
 
-# How it's done
+<!-- break -->
 
-## Crust
+## How it's done
+
+### Crust
 
 Crush biscuits to fine crumbs, either in a food processor, or by breaking them into a ziplock bag and crushing with a rolling pin. Either way, you'll probably need to do this in 3 or 4 batches.
 
@@ -35,13 +37,13 @@ Press the crumb mixture firmly into the bottom and sides of a 23cm springform pa
 
 Place in the fridge while you prepare the next layer.
 
-## Filling
+### Filling
 
 Mix all ingredients together until smooth and well blended. Pour into crumb crust and bake at 180 degrees Celsius for 20-25 minutes. Remove from oven, let stand 15 minutes while you prepare the topping.
 
 Turn oven up to 230 degrees.
 
-## Top
+### Top
 
 Stir all ingredients well, until sugar is dissolved. Spoon over filling. Sprinkle with nutmeg if desired.
 

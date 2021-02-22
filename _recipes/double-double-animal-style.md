@@ -3,9 +3,9 @@ name: Double Double Animal Style
 tags: mains beef-mince american
 ---
 
-# What you need
+## What you need
 
-## Burgers
+### Burgers
 
 * 500g beef mince (high fat)
 * 4 soft Hamburger buns
@@ -16,13 +16,13 @@ tags: mains beef-mince american
 * 1/2 cup yellow mustard
 * 8 slices deli-cut American Cheese
 
-## Onions
+### Onions
 
 * 2 teaspoons vegetable oil
 * 4-6 brown onions, finely chopped
 * Salt
 
-## Spread
+### Spread
 
 * 5 tbsp mayonnaise
 * 2 tbsp ketchup
@@ -30,13 +30,15 @@ tags: mains beef-mince american
 * 1 tsp sugar
 * 1 tsp distilled white vinegar
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat the oven or toaster oven to 200C while you cook the onions
 
 Form ground beef into eight 60g patties, using damp hands (or a plate) to press each into a patty about 5mm thick and 10cm wide. Season generously with salt and pepper
 
-## Onions
+### Onions
 
 Heat 2 tsp oil in a non-stick skillet over medium-high heat until shimmering.
 
@@ -48,11 +50,11 @@ Continue cooking until water evaporates and onions start sizzling again.
 
 Repeat process, adding 1 tablespoon of water with each iteration until onions are meltingly soft and dark brown, about 3 times total. Transfer to a small bowl and set aside.
 
-## Spread
+### Spread
 
 Combine mayonnaise, ketchup, relish, sugar, and vinegar in small bowl. Stir to combine.
 
-## Burgers and buns
+### Burgers and buns
 
 Place closed buns in preheated oven for 2 minutes until slightly darkened and crisped. Heat 1/2 tsp oil in non-stick skillet or griddle over medium-high heat until shimmering.
 

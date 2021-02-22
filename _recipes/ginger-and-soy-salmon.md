@@ -3,9 +3,9 @@ name: Ginger & Soy Glazed Salmon with Bok Choy
 tags: rice asian fish mains
 ---
 
-# What you need
+## What you need
 
-## Coconut Rice
+### Coconut Rice
 
 * 1 cup Basmati Rice
 * 1 cube Chicken Stock
@@ -13,7 +13,7 @@ tags: rice asian fish mains
 * 1/2 tbsp Salt
 * 1 Shredded Coconut, lightly toasted, for garnish
 
-## Glaze
+### Glaze
 
 * 1 tsp Olive Oil
 * 2 cloves Garlic, finely chopped
@@ -24,7 +24,7 @@ tags: rice asian fish mains
 * 1/4 cup Soy Sauce
 * 1/4 cup Honey
 
-## Salmon
+### Salmon
 
 * 1 tbsp Olive Oil
 * 4 x 200 g Fresh Tasmanian Atlantic Salmon Fillets (skin on)
@@ -32,9 +32,11 @@ tags: rice asian fish mains
 * 1 Lemon, zest
 * Coriander, for garnish
 
-# How it's done
+<!-- break -->
 
-## Coconut Rice
+## How it's done
+
+### Coconut Rice
 
 Rinse the rice in a sieve under cold running water until the water runs clear. Drain.
 
@@ -43,7 +45,7 @@ high heat and bring to a simmer. Reduce the heat to low. Add the rice and stir c
 
 Remove from the heat and stand covered for 10 minutes, or until the rice is tender and all of the liquid has been absorbed. Lightly fluff up the rice with a fork. Transfer the rice to bowls and garnish with the toasted coconut and serve.
 
-## Glaze
+### Glaze
 
 Heat the oil in a medium saucepan. Add the garlic, 1 tbsp of ginger, and chilli and stir over low heat for 2 minutes.
 
@@ -51,7 +53,7 @@ Add the orange juice and reduce by half. Add the soy sauce and honey and cook fo
 
 Add the coriander, lemon zest, and remaining tbsp of ginger and remove from the heat.
 
-## Salmon
+### Salmon
 
 Heat the oil in a large non­stick frying pan over medium­ high heat. Remove the skin from the salmon. Season the salmon fillets with pepper.
 

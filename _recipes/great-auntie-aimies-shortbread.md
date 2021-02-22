@@ -3,7 +3,7 @@ name: Great Auntie Aimie’s Shortbread
 tags: dessert christmas
 ---
 
-# What you need
+## What you need
 
 * 500g plain flour
 * 500g unsalted butter at room temperature
@@ -14,7 +14,9 @@ tags: dessert christmas
 * Pinch salt
 * Little lemon juice (optional)
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat oven 130C
 

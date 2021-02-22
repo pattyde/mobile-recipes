@@ -3,23 +3,25 @@ name: Maple Chipotle Salmon
 tags: mains fish
 ---
 
-# What you need
+## What you need
 
-## Brine
+### Brine
 
 * 1L Cold Water
 * ¼ cup salt
 * ¼ cup brown sugar
 * 600g salmon
 
-## Glaze
+### Glaze
 
 * 30mL chopped chipoltle in adobe sauce
 * 60mL fresh lime juice
 * 90mL maple syrup
 * Salt and pepper
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Combine brine ingredients in long shallow dish
 

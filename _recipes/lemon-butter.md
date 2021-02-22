@@ -3,7 +3,7 @@ name: Lemon Butter
 tags: dessert
 ---
 
-# What you need
+## What you need
 
 * 125 g butter
 * 4 egg yolks
@@ -11,7 +11,9 @@ tags: dessert
 * 200g sugar
 * Rind of 2 lemons (finely grated)
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Melt butter in double broiler
 

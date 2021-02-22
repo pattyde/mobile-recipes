@@ -3,7 +3,7 @@ name: Creamy Zucchini Pasta with Bacon and Tomato
 tags: pasta mains
 ---
 
-# What you need
+## What you need
 
 * 5-6 zucchini, spiral cut
 * 1 and ½ tbsp olive oil, divided
@@ -19,7 +19,9 @@ tags: pasta mains
 * 1 cup halved cherry tomatoes
 * Salt & Pepper
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat the oven to 200 degrees C.
 

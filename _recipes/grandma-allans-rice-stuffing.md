@@ -3,7 +3,7 @@ name: Grandma Allan's Rice Stuffing
 tags: rice side-dish thanksgiving
 ---
 
-# What you need
+## What you need
 
 * White Rice (0.5 cups of rice per person)
 * 1 stick (½ cup) butter
@@ -15,7 +15,9 @@ tags: rice side-dish thanksgiving
 * Garlic salt 1 tsp.
 * 2-4 beaten eggs (depending on # of cups of rice)
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Cook rice.
 

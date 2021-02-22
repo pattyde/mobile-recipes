@@ -3,7 +3,7 @@ name: Beer Can Chicken
 tags: chicken mains american
 ---
 
-# What you need
+## What you need
 * 1 whole free-range chicken
 * Olive oil
 * 1 can of beer
@@ -12,7 +12,7 @@ tags: chicken mains american
 * 1 bunch of spring onions , trimmed
 * ½ a bunch of fresh coriander
 
-## Dry rub
+### Dry rub
 
 * 1 heaped tablespoon smoked paprika
 * 1 heaped teaspoon cayenne pepper
@@ -24,7 +24,9 @@ tags: chicken mains american
 * 1 heaped tablespoon freshly ground black pepper
 * 1 heaped tablespoon soft dark brown sugar
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Remove the chicken from the fridge and leave aside to come up to room temperature and
 Preheat the oven to 200ºC.

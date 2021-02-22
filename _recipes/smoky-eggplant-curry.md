@@ -3,7 +3,7 @@ name: Baingan Bharta (Smoky Eggplant Curry)
 tags: indian vegetarian mains
 ---
 
-# What you need
+## What you need
 * 1.25kg eggplant (approx 3 eggplants)
 * 9 cloves garlic
 * 3 red chilli (1.5 if you want mild)
@@ -24,7 +24,9 @@ tags: indian vegetarian mains
 * 4 tbsp coriander, finely chopped
 * 1 cup frozen peas
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Take eggplant and make 4 slits in each with a sharp knife, length ways and evenly spaced around each eggplant.
 

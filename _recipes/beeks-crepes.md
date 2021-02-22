@@ -3,13 +3,15 @@ name: Beek's Crepes
 tags: mains breakfast
 ---
 
-# What you need
+## What you need
 * 1 cup plain flour
 * 1 egg
 * 1 cup milk
 * Vegetable Oil
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Mix flour, egg and 1/2 cup of milk with wooden spoon, it should be thick so you can get the lumps out, but everything is muddy in consistency.
 

@@ -3,7 +3,7 @@ name: Eggplant Cutlets
 tags: vegetarian side-dish
 ---
 
-# What you need
+## What you need
 * 1 large eggplant, cut into 1cm thick slices
 * 1/2 cup plain flour
 * 3 large eggs
@@ -17,7 +17,9 @@ tags: vegetarian side-dish
 * 1/4 cup freshly grated Parmesan
 * 1/4 tsp crushed red pepper flakes
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Soak eggplant in salt water for 20 minutes
 

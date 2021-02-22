@@ -3,7 +3,7 @@ name: BBQ Chicken Quinoa and Zucchini Salad
 tags: chicken salad mains bbq
 ---
 
-# What you need
+## What you need
 * 500g Chicken Breast, flattened to approx 1cm thickness
 * 1 tbsp baby capers
 * 1 medium shallot, finely chopped
@@ -19,7 +19,9 @@ tags: chicken salad mains bbq
 * 1 cup chicken stock
 * 1 cup water
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Bring stock and water to the boil. Add quinoa, reduce to medium heat (low boil), cover and cook for 15-20 minutes or until cooked through. Set aside to cool.
 

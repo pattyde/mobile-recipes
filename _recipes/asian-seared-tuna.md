@@ -3,7 +3,7 @@ name: Asian Seared Tuna
 tags: asian entree fish
 ---
 
-# What you need
+## What you need
 * 1 x 200 g sashimi grade tuna steak
 * 3 tablespoons sesame seeds
 * Olive oil
@@ -16,7 +16,9 @@ tags: asian entree fish
 * 1 spring onion thinly sliced
 * 1 fresh red chilli thinly sliced at an angle
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Slice tuna roughly 3cm thick.
 

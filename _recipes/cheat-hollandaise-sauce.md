@@ -3,7 +3,7 @@ name: Cheat Hollandaise Sauce
 tags: sauce breakfast
 ---
 
-# What you need
+## What you need
 
 * 1 egg yolk (about 35 grams)
 * 1 teaspoon water (about 5 grams)
@@ -13,7 +13,9 @@ tags: sauce breakfast
 * Pinch cayenne pepper or hot sauce (if desired)
 * 1/4 teaspoon white wine vinegar (seriously, not much at all)
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Combine egg yolk, water, lemon juice, and a pinch of salt in the bottom of a cup that barely fits the head of an immersion blender.
 

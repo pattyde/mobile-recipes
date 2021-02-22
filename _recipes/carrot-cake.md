@@ -3,9 +3,9 @@ name: Carrot Cake with Cream Cheese Frosting
 tags: cake dessert
 ---
 
-# What you need
+## What you need
 
-## Cake
+### Cake
 * 1 ¼ cups sugar
 * 1 cup canola oil
 * 4 eggs
@@ -21,15 +21,17 @@ tags: cake dessert
 * ¾ cup coarsely chopped pecans
 * ¼ cup crushed pineapple (drained)
 
-## Frosting
+### Frosting
 * 115g butter (room temp)
 * 450g cream cheese
 * 3 cups icing sugar
 * 2.5 tsp vanilla
 
-# How it's done
+<!-- break -->
 
-## Cake
+## How it's done
+
+### Cake
 
 Preheat oven to 180°C fan forced and lightly oil two 9” cake pans
 
@@ -51,7 +53,7 @@ Bake for 50 min
 
 Remove from oven when cake springs back and cool on wire rack
 
-## Frosting
+### Frosting
 
 Cream together cheese and butter on low speed until well blended
 

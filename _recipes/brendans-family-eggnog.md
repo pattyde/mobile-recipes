@@ -3,7 +3,7 @@ name: Brendan's Family Eggnog
 tags: christmas
 ---
 
-# What you need
+## What you need
 **Serves 30**
 
 * 1 dozen eggs (separated)
@@ -14,23 +14,25 @@ tags: christmas
 * 1 litre bourbon
 * 1 cup dark rum
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 **Prepare at least one week in advance to mellow. Ideally 3 weeks**
 
-## Egg mixture #1
+### Egg mixture #1
 
 Beat 12 egg whites until stiff
 
 Beat in 1/2 cup sugar and set aside
 
-## Egg mixture #2
+### Egg mixture #2
 
 Combine 12 egg yolks, 1 cup sugar, and salt in a separate bowl
 
 Beat until very light
 
-## The Nog
+### The Nog
 
 Combine the two egg mixtures and stir until thoroughly blended
 

@@ -3,9 +3,9 @@ name: Fish Tacos with Chipotle Mayo
 tags: entree mexican fish mains
 ---
 
-# What you need
+## What you need
 
-## Fish
+### Fish
 
 * 4 cloves garlic
 * 2 red chilli
@@ -13,7 +13,7 @@ tags: entree mexican fish mains
 * Juice of 3 limes
 * 600g tilapia or basa fillets
 
-## Chipotle Mayo
+### Chipotle Mayo
 
 * 1/4 cup mayonnaise
 * 1/4 cup Greek yogurt
@@ -21,7 +21,7 @@ tags: entree mexican fish mains
 * 1 tablespoon freshly squeezed lime juice
 * 2 cloves garlic, pressed
 
-## Accompaniments
+### Accompaniments
 
 * 8 small tortillas
 * Red cabbage
@@ -29,9 +29,11 @@ tags: entree mexican fish mains
 * Avocado or guacamole
 * Coriander leaves
 
-# How it's done
+<!-- break -->
 
-## Main
+## How it's done
+
+### Main
 
 In a large bowl combine garlic, chilli, coriander stalks and lime juice in a small bowl.
 
@@ -43,7 +45,7 @@ Melt butter in a large skillet over medium high heat. Add tilapia and cook, flip
 
 Serve fish and other accompaniments on tortillas, drizzled with chipotle mayo
 
-## Entree
+### Entree
 
 Follow directions above, but serve in individual tortilla cups. To make:
 

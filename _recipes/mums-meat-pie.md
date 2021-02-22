@@ -3,7 +3,7 @@ name: Mum's Meat Pie
 tags: pies mains beef-mince
 ---
 
-# What you need
+## What you need
 
 * 2 tbsp oil
 * 1 onion, finely diced
@@ -19,7 +19,9 @@ tags: pies mains beef-mince
 * 2 sheets puff pastry
 * 1 egg, whisked
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Heat the oil in a medium saucepan then add the onion and garlic then cook stirring often until the onion is soft. Add the mince then increase the temperature to high and cook stirring with a wooden spoon making sure to break up the mince as much as possible so there are no lumps. This will take about 10 minutes.
 

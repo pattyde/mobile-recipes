@@ -3,7 +3,7 @@ name: Eggplant Polpettine (Meatless Meatballs)
 tags: vegetarian italian mains
 ---
 
-# What you need
+## What you need
 * 500 g eggplant, cut into 3–4 cm cubes
 * 70-80 g fine, dry breadcrumbs
 * 100 g fresh and slightly moist breadcrumbs
@@ -15,7 +15,9 @@ tags: vegetarian italian mains
 * 3 tbsp parsley, finely chopped
 * Vegetable oil
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Boil eggplant in salted water for about 10 minutes, uncovered and stirring occasionally, until soft.
 

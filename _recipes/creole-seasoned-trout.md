@@ -3,7 +3,7 @@ name: Creole Seasoned Trout
 tags: fish mains
 ---
 
-# What you need
+## What you need
 
 * 1 tbsp fresh lemon juice
 * 1 tbsp creole spice mix (recipe follows)
@@ -27,7 +27,9 @@ tags: fish mains
 * 1 tbsp dried leaf oregano
 * 1 tbsp dried thyme
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat broiler, or grill.
 

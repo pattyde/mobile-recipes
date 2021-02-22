@@ -3,7 +3,7 @@ name: Chicken & Bacon Risotto (Cam's Chicken Rice)
 tags: rice chicken italian mains
 ---
 
-# What you need
+## What you need
 
 * Olive oil
 * 1 brown onion, chopped
@@ -22,7 +22,9 @@ tags: rice chicken italian mains
 * Salt
 * Pepper
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Heat olive oil in a large, deep frying pan on medium-high heat. Add bacon and cook until crispy.
 

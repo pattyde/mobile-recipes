@@ -3,7 +3,7 @@ name: Chicken Piccata
 tags: chicken mains italian pasta
 ---
 
-# What you need
+## What you need
 
 * 2 large boneless skinless chicken breasts, chopped into large 1" pieces
 * Kosher salt
@@ -21,7 +21,9 @@ tags: chicken mains italian pasta
 * 1/2 c. finely grated Parmesan
 * 2 tbsp. chopped flat-leaf parsley
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Season chicken with salt and pepper, then dredge the pieces in flour. Shake off excess flour.
 

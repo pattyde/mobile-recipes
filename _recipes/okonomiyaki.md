@@ -3,7 +3,7 @@ name: Joey's Okonomiyaki
 tags: asian mains japanese
 ---
 
-# What you need
+## What you need
 * 1/2 Chinese cabbage, cored and thinly sliced
 * Green onions, chopped
 * Brown onion, thinly sliced
@@ -20,7 +20,9 @@ tags: asian mains japanese
 * Powdered nori (Aonori)
 
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Start with 1/4 ( or less) of a smallish cabbage, cored and thinly sliced into a big mixing bowl. You can add and other veg at this point ( Green onion, sliced yellow onion, mushroom etc. and/or shrimp, ham , whatever.
 

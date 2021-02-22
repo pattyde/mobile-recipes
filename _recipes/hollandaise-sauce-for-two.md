@@ -3,7 +3,7 @@ name: Hollandaise Sauce For Two
 tags: sauce breakfast
 ---
 
-# What you need
+## What you need
 
 * 1.5 tsp white wine vinegar
 * 2 egg yolks (eggs at room temperature)
@@ -13,7 +13,9 @@ tags: sauce breakfast
 * Cayenne
 * Lemon juice
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Melt butter and set aside to cool
 

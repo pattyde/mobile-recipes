@@ -3,7 +3,7 @@ name: Chicken Tikka
 tags: chicken mains indian
 ---
 
-# What you need
+## What you need
 
 * 500g boneless skinless chicken thighs OR chicken breast
 * 1 tsp cumin seeds
@@ -17,7 +17,9 @@ tags: chicken mains indian
 * 1 tsp paprika
 * 2 tbsp greek yoghurt
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 In a small non stick pan, dry roast the cumin and coriander seeds until they smoke.
 

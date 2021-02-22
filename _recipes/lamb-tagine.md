@@ -3,9 +3,9 @@ name: Lamb Tagine
 tags: middle-eastern mains lamb
 ---
 
-# What you need
+## What you need
 
-## Marinade
+### Marinade
 
 * ¼ cup olive oil
 * 1kg diced lamb meat
@@ -21,7 +21,7 @@ tags: middle-eastern mains lamb
 * 1 pinch saffron
 * 3/4 teaspoon garlic powder
 
-## The Rest
+### The Rest
 
 * 2 medium brown onions, diced
 * 4 medium carrots, peeled, cut into batons
@@ -34,7 +34,9 @@ tags: middle-eastern mains lamb
 * 1 tablespoon corn flour (optional)
 * 1 tablespoon water (optional)
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Place lamb in a large bowl, toss with 2 tablespoons of the olive oil
 

@@ -3,7 +3,7 @@ name: Avocado Pasta
 tags: pasta italian vegetarian mains
 ---
 
-# What you need
+## What you need
 * 2 ripe avocados, halved, seeded and peeled
 * 1/2 cup fresh basil leaves
 * 2 cloves garlic
@@ -12,7 +12,9 @@ tags: pasta italian vegetarian mains
 * 1/3 cup olive oil
 * 1 cup cherry tomatoes, halved
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 In a large pot of boiling salted water, cook pasta according to package instructions; drain well.
 

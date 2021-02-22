@@ -3,7 +3,7 @@ name: Beef and Veggie Pasties
 tags: mains beef-mince australian
 ---
 
-# What you need
+## What you need
 * 1 tbsp olive oil
 * 400g beef mince
 * 1 brown onion, chopped
@@ -20,7 +20,9 @@ tags: mains beef-mince australian
 * 1 large egg, lightly beaten
 * 4 tbsp parmesan cheese
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat oven to 200 C
 

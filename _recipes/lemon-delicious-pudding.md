@@ -3,7 +3,7 @@ name: Lemon Delicious Pudding
 tags: dessert
 ---
 
-# What you need
+## What you need
 
 * 3 eggs
 * 1/2 cup sugar
@@ -14,7 +14,9 @@ tags: dessert
 * Pinch salt
 * 1 tbsp sugar, extra
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat oven to 160 conventional
 

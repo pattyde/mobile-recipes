@@ -3,15 +3,15 @@ name: Glazed Meatloaf
 tags: mains beef-mince
 ---
 
-# What you need
+## What you need
 
-## Glaze
+### Glaze
 
 * 1/3 cup tomato sauce
 * 1/2 tsp dry mustard
 * 2 tbsp brown sugar
 
-## The Loaf
+### The Loaf
 
 * 1kg mince beef
 * 1 cup rolled oats
@@ -25,13 +25,15 @@ tags: mains beef-mince
 * 1 tsp dry mustard
 * 185g evaporated milk
 
-# How it's done
+<!-- break -->
 
-## Glaze
+## How it's done
+
+### Glaze
 
 Combine all ingredients and set aside. Simples.
 
-## Loaf
+### Loaf
 
 Preheat oven to 180 degrees C
 

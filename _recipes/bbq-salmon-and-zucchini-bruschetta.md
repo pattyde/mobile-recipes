@@ -3,7 +3,7 @@ name: Barbecued Salmon & Zucchini Bruschetta with Dill-Lemon Sauce
 tags: fish mains bbq
 ---
 
-# What you need
+## What you need
 * 90 ml extra virgin olive oil + 2 tbsp
 * 1/4 cup fresh dill, chopped
 * 1 small shallot, finely chopped
@@ -12,7 +12,9 @@ tags: fish mains bbq
 * 8 slices fresh loaf of bread, halved crossways
 * 2 zucchini, thinly sliced lengthways with a mandolin or vegetable peeler
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Heat barbecue to medium high heat.
 

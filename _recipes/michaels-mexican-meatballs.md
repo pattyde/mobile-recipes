@@ -3,9 +3,9 @@ name: Michael's Mexican Meatballs
 tags: mexican beef-mince pork-mince
 ---
 
-# What you need
+## What you need
 
-## Sauce
+### Sauce
 
 * 4 ripe tomatoes
 * 4-5 chipotle chillies in adobo sauce, strained, plus 1 tbsp of the strained sauce
@@ -15,7 +15,7 @@ tags: mexican beef-mince pork-mince
 * 1/2 tsp sea salt
 * 1 cup chicken stock
 
-## Meatballs
+### Meatballs
 
 * 300g beef mince
 * 300g pork mince
@@ -28,15 +28,17 @@ tags: mexican beef-mince pork-mince
 * Extra virgin olive oil
 * Manchego or pecorino cheese, to serve
 
-# How it's done
+<!-- break -->
 
-## Sauce
+## How it's done
+
+### Sauce
 
 Place the tomatoes, chillies plus 1 tsp of their sauce, garlic, cumin, oregano and salt in a blender.
 
 Add the chicken stock and process until quite smooth.
 
-## Meatballs
+### Meatballs
 
 Place the beef, pork, cumin, garlic, 1 tsp salt and a grind of pepper in a bowl. Mix well
 

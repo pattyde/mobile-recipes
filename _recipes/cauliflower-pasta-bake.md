@@ -3,7 +3,7 @@ name: Cauliflower Pasta Bake
 tags: pasta vegetarian mains
 ---
 
-# What you need
+## What you need
 
 * 250g orecchiette pasta
 * 1 large head of cauliflower, cut into florets
@@ -23,7 +23,9 @@ tags: pasta vegetarian mains
 * 1/2 cup grated Parmesan
 * 250g cherry bocconcini
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat oven to 180°.
 

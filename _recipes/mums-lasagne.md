@@ -3,9 +3,9 @@ name: Mum's Lasagne
 tags: pasta italian mains beef-mince
 ---
 
-# What you need
+## What you need
 
-## Meat Sauce
+### Meat Sauce
 
 * 1 tbsp oil
 * 1 onion, chopped
@@ -19,21 +19,23 @@ tags: pasta italian mains beef-mince
 * ½ tsp rosemary
 * 1 tsp salt
 
-## Cheese Sauce
+### Cheese Sauce
 
 * 60g butter
 * 3 tbsp corn flour
 * 2 cups milk
 * Cheese. A lot of it.
 
-## Topping
+### Topping
 
 * ½ cup grated Parmesan cheese
 * Cream
 
-# How it's done
+<!-- break -->
 
-## Meat Sauce
+## How it's done
+
+### Meat Sauce
 
 Preheat oven to 180°C
 
@@ -43,7 +45,7 @@ Add meat and cook until browned
 
 Add all other ingredients and cook for about 15 minutes.
 
-## Cheese Sauce
+### Cheese Sauce
 
 Melt butter in saucepan
 
@@ -53,7 +55,7 @@ Gradually add the milk, stirring all the time, until sauce begins to boil and th
 
 Add grated cheese and stir
 
-## Lasagne
+### Lasagne
 
 Place alternating layers of noodles, meat sauce and cheese sauce in the lasagne dish starting with meat sauce (if using instant noodles), then noodles, then meat sauce again, then cheese sauce, then noodles, meat sauce, cheese sauce, noodles
 

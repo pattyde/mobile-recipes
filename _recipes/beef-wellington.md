@@ -3,7 +3,7 @@ name: Beef Wellington
 tags: beef british mains
 ---
 
-# What you need
+## What you need
 * Beef tenderloin roast (500-750g/4 people)
 * Olive oil
 * Salt & pepper
@@ -19,7 +19,9 @@ tags: beef british mains
 * Egg yolk
 * 2 25x25cm sheets puff pastry (approx. 400g)
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Season beef with olive oil, salt and pepper then roast beef for 12-15 min in a preheated 210 degree oven
 

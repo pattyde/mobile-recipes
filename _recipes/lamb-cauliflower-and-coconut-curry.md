@@ -3,7 +3,7 @@ name: Lamb, Cauliflower, and Coconut Curry
 tags: indian lamb mains
 ---
 
-# What you need
+## What you need
 
 * Olive oil
 * 500g lamb mince
@@ -21,7 +21,9 @@ tags: indian lamb mains
 * Fresh coriander leaves
 * Saffron rice
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 If having rice, cook according to directions
 

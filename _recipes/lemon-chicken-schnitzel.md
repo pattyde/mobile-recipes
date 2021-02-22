@@ -3,7 +3,7 @@ name: Lemon Chicken Schnitzel
 tags: chicken mains
 ---
 
-# What you need
+## What you need
 
 * 2 chicken breasts
 * 1/8 cup lemon juice
@@ -21,7 +21,9 @@ tags: chicken mains
 * 45g butter
 * ¼ cup cream
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Pound breast flat
 

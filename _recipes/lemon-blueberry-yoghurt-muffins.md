@@ -3,9 +3,9 @@ name: Lemon Blueberry Yoghurt Muffins
 tags: dessert
 ---
 
-# What you need
+## What you need
 
-## Muffins
+### Muffins
 
 * 1 ½ cups + 1 tbsp plain flour, divided
 * 3 tsp baking powder
@@ -24,12 +24,14 @@ tags: dessert
 * 1/3 cup caster sugar
 * Large pieces of lemon zest for decoration
 
-## Lemon Glaze
+### Lemon Glaze
 
 * 1 cup icing sugar, sifted
 * 2 tbsp fresh lemon juice
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat the oven to 180°C.
 

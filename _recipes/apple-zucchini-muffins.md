@@ -3,7 +3,7 @@ name: Apple Zucchnin Muffins
 tags: snack
 ---
 
-# What you need
+## What you need
 * 2 cups self-raising flour
 * 1/4 cup brown sugar (optional)
 * 1 tsp cinnamon
@@ -14,7 +14,9 @@ tags: snack
 * 1 overripe banana (mashed)
 * 1 cup zucchini (peeled, grated)
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat oven to 180°C (160°C fan-forced). Spray a 12-cup muffin tin with cooking spray.
 

@@ -3,7 +3,7 @@ name: Curtis Stone's Chicken Madras
 tags: indian chicken mains
 ---
 
-# What you need
+## What you need
 
 * 1/4 cup olive oil
 * 1 large brown onion, diced
@@ -23,7 +23,9 @@ tags: indian chicken mains
 * 250g cherry tomatoes
 * Juice of 1 lemon
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Heat two tablespoons of oil in a pan over high heat. Add onion and cinnamon and cook until golden brown
 

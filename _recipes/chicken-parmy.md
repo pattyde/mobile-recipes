@@ -3,7 +3,7 @@ name: Chicken Parmy
 tags: chicken mains australian
 ---
 
-# What you need
+## What you need
 
 * 2 250g chicken breasts
 * Dijon mustard
@@ -13,7 +13,9 @@ tags: chicken mains australian
 * Homemade passata sauce
 * Grated sharp cheese
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Pound out chicken breasts then slice into two pieces
 

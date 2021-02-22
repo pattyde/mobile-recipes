@@ -3,7 +3,7 @@ name: Ethiopian Chicken Stew
 tags: chicken mains
 ---
 
-# What you need
+## What you need
 
 * 2 tbsp butter
 * 1 onion, finely diced
@@ -24,7 +24,7 @@ tags: chicken mains
 * Yoghurt
 * Flat bread
 
-## Berbere
+### Berbere
 **Makes about 1/2 cup**
 
 * 1 tbsp paprika
@@ -44,7 +44,9 @@ tags: chicken mains
 * 1/4 tsp garlic powder
 * 1/4 tsp ground ginger
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Melt butter in a medium pan over medium heat. Add the onion and cook 5-8 minutes, until cooked through.
 

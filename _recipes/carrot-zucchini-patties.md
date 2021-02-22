@@ -3,7 +3,7 @@ name: Carrot Zucchini Patties
 tags: burger side-dish vegetarian snack
 ---
 
-# What you need
+## What you need
 
 * 1 can chickpeas drained
 * 1 zucchini, grated
@@ -16,7 +16,9 @@ tags: burger side-dish vegetarian snack
 * ½ teaspoon pepper
 * olive oil
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Mash chickpeas in a large bowl. Set aside.
 

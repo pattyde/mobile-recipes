@@ -3,9 +3,9 @@ name: Dal Makhani, Oberoi Style
 tags: indian vegetarian mains
 ---
 
-# What you need
+## What you need
 
-## Dal
+### Dal
 
 * 150g dried whole urad dal (black lentils)
 * 50g dried rajma (red kidney beans)
@@ -15,7 +15,7 @@ tags: indian vegetarian mains
 * 3 birdseye chillies, finely chopped
 * Salt to taste
 
-## Tadka
+### Tadka
 
 * 50g ghee
 * 1 tspn cumin seeds
@@ -24,7 +24,7 @@ tags: indian vegetarian mains
 * Pinch asafoetida powder
 * 100g tomato paste
 
-## To Finish
+### To Finish
 
 * 100g butter
 * 50 ml cream
@@ -32,7 +32,9 @@ tags: indian vegetarian mains
 * 0.5 tspn garam masala
 * 0.5 lemon
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Soak all lentils in water overnight. Wash four times, changing the water each time.
 

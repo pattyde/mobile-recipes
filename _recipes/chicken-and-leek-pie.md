@@ -3,7 +3,7 @@ name: Chicken and Leek Pie
 tags: chicken pies mains
 ---
 
-# What you need
+## What you need
 
 * 500g Chicken Breast
 * 3 tbsp olive oil
@@ -21,7 +21,9 @@ tags: chicken pies mains
 * 1 egg, beaten to glaze pies
 * Sesame seeds
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 ## Filling
 

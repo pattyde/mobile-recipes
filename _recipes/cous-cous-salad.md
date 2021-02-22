@@ -3,7 +3,7 @@ name: Cous Cous Salad
 tags: side-dish vegetarian salad
 ---
 
-# What you need
+## What you need
 
 * 2 cups cous cous
 * 2 cups chicken stock
@@ -17,7 +17,9 @@ tags: side-dish vegetarian salad
 * 1/4 cup fresh mint and or basil finely chopped
 * 1 tbsp lemon juice
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Bring stock to the boil in a medium saucepan.
 

@@ -3,7 +3,7 @@ name: Creamy Spinach Lemon Chicken
 tags: chicken mains
 ---
 
-# What you need
+## What you need
 
 * 2 large chicken breasts
 * 2 tbsp vegetable oil, divided
@@ -16,7 +16,9 @@ tags: chicken mains
 * Salt, to taste,
 * Pepper to taste
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Preheat oven to 200°C.
 

@@ -3,7 +3,7 @@ name: Dad's Breakfast Potatoes
 tags: vegetarian breakfast
 ---
 
-# What you need
+## What you need
 * Potatoes, 1-2cm cubed
 * Red onion, diced
 * 1-2 garlic cloves, minced
@@ -12,7 +12,9 @@ tags: vegetarian breakfast
 * Garlic powder
 * Celery salt
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Rinse potatoes in colander and dump into tea towel, roll into sausage shape and shake to dry the cubes
 

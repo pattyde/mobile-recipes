@@ -3,7 +3,7 @@ name: Grandma Allan's Turkey Gravy
 tags: sauce thanksgiving
 ---
 
-# What you need
+## What you need
 
 * Giblets from a fresh or frozen turkey.
 * 2-3 celery stalks 4-5 stalks celery, roughly chopped
@@ -13,7 +13,9 @@ tags: sauce thanksgiving
 * Salt and Pepper to taste
 * 2 tbsp flour
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Place giblets in a pot and cover with water
 

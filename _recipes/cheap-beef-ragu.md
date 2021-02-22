@@ -3,7 +3,7 @@ name: Cheap Beef Ragu
 tags: beef mains
 ---
 
-# What you need
+## What you need
 
 * 2 tbsp olive oil
 * 500g gravy beef or chuck steak
@@ -19,7 +19,9 @@ tags: beef mains
 * 2 bay leaves
 * 500g pasta (ideally pappardelle, but rigatoni or fettucini are ok too)
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Sprinkle beef with salt and pepper
 

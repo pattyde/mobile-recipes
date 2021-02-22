@@ -3,7 +3,7 @@ name: Garlic Ginger Pork
 tags: pork mains
 ---
 
-# What you need
+## What you need
 * 1/2 cup soy sauce
 * 1 tbsp white sugar
 * 2 tbsp grated onion
@@ -13,7 +13,9 @@ tags: pork mains
 * 2 tbsp vegetable oil
 * 500g pork tenderloin
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 In a medium bowl mix together soy sauce, sugar, onion, garlic, ginger, sesame seeds and oil. Add pork and turn to coat.
 

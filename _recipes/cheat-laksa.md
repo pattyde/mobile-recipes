@@ -3,9 +3,9 @@ name: Cheat Laksa
 tags: soup asian chicken prawn mains
 ---
 
-# What you need
+## What you need
 
-## Paste
+### Paste
 
 * 3 tbsp dried shrimps
 * 9-10 garlic cloves, chopped
@@ -13,7 +13,7 @@ tags: soup asian chicken prawn mains
 * 60-70g ginger, chopped
 * 4 red chillies, chopped
 
-## Garnishes
+### Garnishes
 
 * Bean sprouts
 * Finely sliced spring onion
@@ -22,7 +22,7 @@ tags: soup asian chicken prawn mains
 * Fried shallots
 * Lime wedges
 
-## Soup
+### Soup
 
 * 200 g chicken
 * 1/3 cup vegetable oil
@@ -40,7 +40,9 @@ tags: soup asian chicken prawn mains
 * 150 g dried rice vermicelli noodles
 * 250 g fresh egg noodles NO MORE NOODLES
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Place chicken breast in a large pot with enough boiling water to cover completely. Simmer for 10 minute then turn off stove and leave chicken to cool in poaching water.
 

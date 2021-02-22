@@ -3,7 +3,7 @@ name: Joey's Saag Gosht
 tags: indian lamb mains
 ---
 
-# What you need
+## What you need
 
 * 4 tbsp vegetable oil (instead of 6)
 * ¼ tsp black peppercorns
@@ -26,7 +26,9 @@ tags: indian lamb mains
 * 900g chopped spinach
 * ¼ tsp garam masala
 
-# How it's done
+<!-- break -->
+
+## How it's done
 
 Heat oil in large pan with lid over medium high heat
 
