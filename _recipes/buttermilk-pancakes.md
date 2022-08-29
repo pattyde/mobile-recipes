@@ -44,4 +44,4 @@ Use a 1⁄4-cup dry measure to place 4 pancakes in the skillet and cook until bu
 
 Carefully flip the pancakes and cook on the second side until golden brown and completely set, about 2 minutes longer.
 
-https://www.seriouseats.com/light-and-fluffy-pancakes-recipe
+Original Recipe on [Serious Eats](https://www.seriouseats.com/light-and-fluffy-pancakes-recipe)

@@ -41,4 +41,4 @@ Season with salt and pepper, add bay leaves, put the lid on then cook it all for
 
 Remove the rosemary stick and bay leaves when it's done and serve with pasta and fresh grated parmesan cheese. Can be frozen.
 
-https://youtu.be/Sw_Ze9zIafM
+[Watch Nat cook it](https://youtu.be/Sw_Ze9zIafM)
