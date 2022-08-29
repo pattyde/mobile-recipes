@@ -1,5 +1,5 @@
 ---
-name: Recipe name here
+name: Potato Cakes
 tags: side-dish vegetarian
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Recipe name here
+name: Potato and Leek Soup
 tags: soup vegetarian
 ---
 

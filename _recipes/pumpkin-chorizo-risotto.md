@@ -1,5 +1,5 @@
 ---
-name: Recipe name here
+name: Pumpkin and Chorizo Risotto
 tags: rice mains
 ---
 
