@@ -1,6 +1,6 @@
 ---
 name: Vegetarian Moussaka
-tags: Vegetarian mains greek
+tags: vegetarian mains greek
 ---
 
 ## What you need

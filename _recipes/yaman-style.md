@@ -1,6 +1,6 @@
 ---
 name: Yaman Style
-tags: Vegetarian middle-eastern christmas mains
+tags: vegetarian middle-eastern christmas mains
 ---
 
 ## What you need
