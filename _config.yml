@@ -1,5 +1,3 @@
-baseurl: "/mobile-recipes"
-
 collections:
   recipes:
     output: true

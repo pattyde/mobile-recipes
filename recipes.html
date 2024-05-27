@@ -8,7 +8,7 @@ title: Recipes
 		{% assign sortedRecipes = site.recipes | sort: 'name' %}
 		{% for recipe in sortedRecipes %}
 			<li>
-				<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.name }}</a>
+				<a href="{{ recipe.url }}">{{ recipe.name }}</a>
 				<!-- <span>
 					{% for tag in recipe.tags %}
 						{% capture tag_name %}{{ tag }}{% endcapture %}
