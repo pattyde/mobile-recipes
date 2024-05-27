@@ -1,5 +1,5 @@
 ---
-name: Slow Cooked Pulled Pork (Carnitas)
+name: Slow Cooked Refried Beans
 tags: side-dish mexican vegetarian slow-cooker
 ---
 
