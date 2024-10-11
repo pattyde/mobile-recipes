@@ -1,5 +1,5 @@
 ---
-name: Spinach and Ricotta Ravioli with Rose Sauce
+name: Stroganoff
 tags: chicken beef mains
 ---
 
