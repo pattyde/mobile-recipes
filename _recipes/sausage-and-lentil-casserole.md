@@ -5,11 +5,11 @@ tags: mains sausage
 
 ## What you need
 
-* 2 cups cherry tomatoes
-* 1/2 cup green lentils
-* 4 large garlic cloves, peeled but left whole
-* 6 fresh sweet or hot Italian sausages
-* 3/4 cup chicken
+* 4 cups cherry tomatoes
+* 2 cup green lentils
+* 8 large garlic cloves, peeled but left whole
+* 12 fresh sweet or hot Italian sausages
+* 3 cup chicken stock
 * 3 tsp balsamic vinegar
 * 3 tsp canola oil
 * 1 Tbsp fresh thyme or rosemary
