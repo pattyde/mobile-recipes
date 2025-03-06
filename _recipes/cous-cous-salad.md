@@ -5,8 +5,8 @@ tags: side-dish vegetarian salad
 
 ## What you need
 
-* 2 cups cous cous
-* 2 cups chicken stock
+* 1/2 cups cous cous
+* 1/2 cups chicken stock
 * 1 tbsp olive oil
 * 1 finely diced red capsicum
 * 1 finely diced carrot
