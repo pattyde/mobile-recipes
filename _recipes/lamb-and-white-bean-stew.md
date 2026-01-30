@@ -11,12 +11,12 @@ tags: lamb slow-cooker mains
 * 1 brown onion, diced
 * 7 cloves garlic, crushed
 * ½ cup fresh coriander leaves, chopped
-* 350g diced lamb leg (see tips above for alternatives)
+* 350g diced lamb leg
 * 2 tablespoons tomato paste
 * 400g diced tomatoes, canned
 * 1 litre vegetable stock
 * 2 teaspoons salt
-* 1½ teaspoons Baharat, often sold as Lebanese 7 Spice (see tips above for where to find it)
+* 1½ teaspoons Baharat, often sold as Lebanese 7 Spice
 * Pepper, to taste
 * Rice, to serve (traditional vermicelli rice or white rice)
 
@@ -28,13 +28,15 @@ Begin this dish the night before you plan to eat it by placing the beans and bak
 
 The following day, drain the water and rinse the beans. Set aside.
 
-Heat the oil in the slow cooker using the sauté function (this part can also be done in a fry pan then transferred back to the slow cooker). Add the diced onion and sauté until soft and translucent.
+Heat the oil in a large fry pan. Add the diced onion and sauté until soft and translucent.
 
 Add garlic and coriander and fry for about 2 minutes until fragrant.
 
-Place the lamb pieces into the pot and cook for about 5 minutes. The goal is to brown the meat and create a seal, rather than fully cook it.
+Place the lamb pieces into the pan and cook for about 5 minutes. The goal is to brown the meat and create a seal, rather than fully cook it.
 
-Now add the tomato paste, diced tomatoes, stock, beans and seasonings. Stir the mixture thoroughly to ensure everything is well combined.
+Add mixture to slow cooker
+
+Add the tomato paste, diced tomatoes, stock, beans and seasonings to the slow cooker. Stir the mixture thoroughly to ensure everything is well combined.
 
 Place lid on your slow cooker and cook on high for 4 hours.
 
