@@ -45,4 +45,5 @@ title: Home
 	const suggestions = document.querySelector('.suggestions');
 	searchInput.addEventListener('change', displayMatches);
 	searchInput.addEventListener('keyup', displayMatches);
+	suggestions.addEventListener('mousedown', e => e.preventDefault());
 </script>
